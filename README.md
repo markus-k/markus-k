@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Markus and I'm a computer engineer.
+
+#### Technology I work with
+* Programming Languages: 🐍 Python, 🦀 Rust, 🗿 C
+* Linux
+* Microcontrollers like: STM32, ESP32
+
 <!--
 **markus-k/markus-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
