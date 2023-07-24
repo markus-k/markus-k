@@ -3,9 +3,11 @@
 My name is Markus and I'm a computer engineer.
 
 #### Technology I work with
-* Programming Languages: 🐍 Python, 🦀 Rust, 🗿 C
+
+* Programming Languages: 🦀 Rust, 🐍 Python, 🗿 C
 * Linux
-* Microcontrollers like: STM32, ESP32
+* Microcontrollers like: RP2040, STM32, ESP32
+* KiCad
 
 <!--
 **markus-k/markus-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
